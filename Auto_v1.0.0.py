@@ -393,7 +393,7 @@ class Aotumation(tkinter.Tk):
         self.console.config(state='disable')
         print('加入我们...')
         messagebox.showinfo(title='加入我们',
-                            message='想要加入我们吗？发送简历和项目到邮箱吧！\n联系方式:18970937294\n')
+                            message='想要加入我们吗？发送简历和项目到邮箱吧！\n联系方式:18335388258\n')
 
     def help_quickstart(self):
         self.console.config(state='normal')
@@ -426,7 +426,7 @@ class Aotumation(tkinter.Tk):
         self.console.delete(1.0, 'end')
         self.console.config(state='disable')
         print('定制服务...')
-        messagebox.showinfo(title='定制服务', message='联系方式:18970937294')
+        messagebox.showinfo(title='定制服务', message='联系方式:18335388258')
 
     #选择保存路径
     def savefile(self, widget):
